@@ -15,32 +15,32 @@
 	"ranking":1
    },
    {
-     "alumno":"Lucas",
+     "alumno":"Marta",
 	"nota":9.5,
 	"ranking":3
    },
    {
-     "alumno":"Jose",
+     "alumno":"Esther",
 	"nota":7.75,
 	"ranking":4
    },
    {
-     "alumno":"Ricardo",
+     "alumno":"Carlos",
 	"nota":9,
 	"ranking":8
    },
    {
-      "alumno":"Pedro",
+      "alumno":"Maria",
 	"nota":6,
 	"ranking":6
    },
    {
-    "alumno":"Luisa",
+    "alumno":"Eva",
 	"nota":2.5,
 	"ranking":2
    },
    {
-    "alumno":"Gustavo",
+    "alumno":"Carla",
 	"nota":5.2,
 	"ranking":10
    }
