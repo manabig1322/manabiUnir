@@ -44,4 +44,9 @@
 	"nota":9.2,
 	"ranking":9.2
    }
- ]
+,
+   {
+    "alumno":"Rodrigo",
+	"nota":10,
+	"ranking":10
+   } ]
