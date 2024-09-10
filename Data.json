@@ -1,16 +1,16 @@
 [
    {
-    "alumno":"Mario",
+    "alumno":"Pedro",
 	"nota":2,
 	"ranking":7.09
    },
    {
-    "alumno":"Pedro",
+    "alumno":"Juan",
 	"nota":7.09,
 	"ranking":5
    },
    {
-     "alumno":"Juan",
+     "alumno":"Sergio",
 	"nota":0.4,
 	"ranking":1
    },
